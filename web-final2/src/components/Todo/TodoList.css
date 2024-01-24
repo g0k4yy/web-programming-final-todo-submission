@@ -1,0 +1,18 @@
+/* src/components/Todo/TodoList.css */
+
+.todo-list-container {
+    background-color: #333; /* Dark background */
+    padding: 20px;
+    border-radius: 15px; /* Rounded corners */
+    color: white; /* Light text for dark background */
+    margin-top: 20px;
+    text-align: center;
+}
+
+.todo-item-row {
+    margin-bottom: 10px;
+}
+
+.todo-item-label {
+    font-size: 1.4em; /* Larger text */
+}
